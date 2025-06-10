@@ -19,6 +19,8 @@ Aplikasi mobile yang berfungsi untuk booking kost
 
 🛒 **Project: Credit Sentinel-Indonesia Infrasturcture Finance (Web Application)**
 Aplikasi berbasis web yang digunakan IIF untuk sistem pengajuan dan peminjaman dana
+
+
 ---
 
 ## 📂 Isi Portofolio
@@ -35,7 +37,7 @@ Kumpulan pengujian API menggunakan Postman/Insomnia:
 ---
 
 ### 📘 3. User Manual
-Panduan untuk pengguna akhir (end-user) tentang bagaimana menggunakan aplikasi:
+Panduan untuk pengguna akhir (end-user) tentang bagaimana menggunakan aplikasi
 
 
 
