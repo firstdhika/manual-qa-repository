@@ -6,6 +6,7 @@ Di sini saya mendokumentasikan hasil kerja dan simulasi sebagai **Manual Softwar
 - ✅ Test Scenario & Test Case
 - ✅ API Testing menggunakan Postman/Insomnia
 - ✅ User Manual untuk end user
+- ✅ Query untuk data validation Testing
 
 ---
 
@@ -19,6 +20,9 @@ Aplikasi mobile yang berfungsi untuk booking kost
 
 🛒 **Project: Credit Sentinel-Indonesia Infrasturcture Finance (Web Application)**
 Aplikasi berbasis web yang digunakan IIF untuk sistem pengajuan dan peminjaman dana
+
+🛒 **Project: Posmain-Indomaret (Desktop Application)**
+Aplikasi berbasis desktop yang digunakan untuk memanage semua transaksi yang terjadi pada semua toko dan gudang indmaret
 
 
 ---
@@ -38,6 +42,11 @@ Kumpulan pengujian API menggunakan Postman/Insomnia:
 
 ### 📘 3. User Manual
 Panduan untuk pengguna akhir (end-user) tentang bagaimana menggunakan aplikasi
+
+---
+
+### 📘 4. SQL Query
+Query database untuk data validation testing
 
 
 
